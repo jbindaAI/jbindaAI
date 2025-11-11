@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Jakub
 
-<!--
-**jbindaAI/jbindaAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **AI researcher and ML engineer** focused on **computer vision** and **explainable AI**.  
+I bridge **research and production**, building tools that make AI models more **interpretable, observable, and reliable**.
 
-Here are some ideas to get you started:
+- 🧠 Researcher at the **University of Warsaw**
+- 🧰 Tech Lead & ML Engineer at [**Alethia XAI**](https://alethia.company/) – building tools for monitoring Vision AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧩 Featured Projects
+- [**Obz.AI**](https://obz.ai/) — Platform for monitoring and explaining vision models in production  
+- [**Vision Transformer XAI**](https://arxiv.org/abs/2312.02364) — Class-Discriminative Attention Maps for Vision Transformers (TMLR 2024)
+
+---
+
+### 📈 Research Interests
+- Computer Vision & Explainable AI  
+- Model Monitoring & Trustworthy ML
