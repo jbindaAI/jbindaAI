@@ -9,5 +9,6 @@ I bridge **research and production**, building tools that make AI models more **
 ---
 
 ### 🧩 Featured Projects
-- [**Obz.AI**](https://obz.ai/) - Platform for monitoring and explaining vision models in production  
-- [**Vision Transformer XAI**](https://arxiv.org/abs/2312.02364) - Class-Discriminative Attention Maps for Vision Transformers (TMLR 2024)
+- [**Obz.AI**](https://obz.ai/) - The platform for monitoring and explaining vision models in production.
+- [**Vision Transformer XAI**](https://arxiv.org/abs/2312.02364) - Research paper: Class-Discriminative Attention Maps for Vision Transformers (TMLR 2024)
+- [**ViT Zoo**](https://pypi.org/project/vit-zoo/) - A Python package to streamline the configuration of Vision Transformer models for fine-tuning.
