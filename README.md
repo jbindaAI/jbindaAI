@@ -12,4 +12,4 @@ I bridge **research and production**, building tools that make AI models more **
 - [**Obz.AI**](https://obz.ai/) - The platform for monitoring and explaining vision models in production.
 - [**Vision Transformer XAI**](https://arxiv.org/abs/2312.02364) - Research paper: Class-Discriminative Attention Maps for Vision Transformers (TMLR 2024)
 - [**ViT Zoo**](https://pypi.org/project/vit-zoo/) - A Python package to streamline the configuration of Vision Transformer models for fine-tuning.
-- [**Vision API**](https://github.com/jbindaAI/vision_api) - A starter micro-service based platform for ML/CV serving API development with integrated observability and API gateway.
+- [**Vision API**](https://github.com/jbindaAI/vision_api) - A starter micro-service based platform for ML/CV API development with integrated observability and API gateway.
