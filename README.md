@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Jakub
 
-I'm an **AI researcher and ML engineer** focused on **Explainable AI** and **MLOps**.
-I bridge **research and production**, building tools that make AI models more **interpretable, observable, and reliable**.
+I'm an **AI researcher and ML engineer** focused on medical imaging, Explainable AI and production ML systems.
+My work sits at the intersection of deep learning research and real-world biomedical applications, with a strong emphasis on building models that are interpretable, reliable and deployment-ready.
 
 - 🧠 Researcher at the **University of Warsaw**
-- 🧰 Tech Lead & ML Engineer - Building tools for Data Quality and ML Models monitoring.
+- 🧰 Tech Lead & ML Engineer building ML observability tools from concept to MVP
+- 🏥 Focused on high-stakes AI applications in healthcare
 
 ---
 
